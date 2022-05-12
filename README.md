@@ -1,4 +1,4 @@
-# sfdc
+# sfdc，基于libgif实现的小例子
 
 ## Project setup
 ```
